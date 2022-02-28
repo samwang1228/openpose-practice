@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+.idea/
+# 忽略 test1.mp4 檔案
+test1.mp4
+# 忽略 img file
+img
