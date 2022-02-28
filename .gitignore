@@ -5,3 +5,5 @@ __pycache__
 test1.mp4
 # 忽略 img file
 img
+# 忽略 model
+checkpoint_iter_370000.pth
