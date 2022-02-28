@@ -17,6 +17,6 @@
 ## 說明:
 在pose.py修改路徑到你要的即可將照片儲存至你要的path
 
-##官方model
+## 官方model:
 https://download.01.org/opencv/openvino_training_extensions/models/human_pose_estimation/checkpoint_iter_370000.pth 
 ```
