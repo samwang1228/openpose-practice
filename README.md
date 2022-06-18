@@ -15,8 +15,13 @@
 
 
 ## 說明:
-在pose.py修改路徑到你要的即可將照片儲存至你要的path
+在pose.py修改路徑到你要的即可將照片儲存至你要的path，此專案會將人物的骨架圖存起來，且過濾背景的不必要因素。
 
 ## 官方model:
-https://download.01.org/opencv/openvino_training_extensions/models/human_pose_estimation/checkpoint_iter_370000.pth 
+https://download.01.org/opencv/openvino_training_extensions/models/human_pose_estimation/checkpoint_iter_370000.pth
+
+## 結果:
+![image](https://user-images.githubusercontent.com/65394145/174431727-6935d449-5c25-4474-b73f-533670613cb2.png)
+
 ```
+
