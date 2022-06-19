@@ -23,5 +23,3 @@ https://download.01.org/opencv/openvino_training_extensions/models/human_pose_es
 ## 結果:
 ![image](https://user-images.githubusercontent.com/65394145/174431727-6935d449-5c25-4474-b73f-533670613cb2.png)
 
-```
-
